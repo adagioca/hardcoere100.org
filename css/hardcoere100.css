@@ -1,0 +1,250 @@
+body {
+	background-color: #333333;
+	font-family: "Lucida Grande", "Lucida Grande", Helvetica;
+}
+
+h2 {
+	text-shadow: 2px 1px 1px black;
+	color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Lucida Grande", "Lucida Grande", Helvetica;
+}
+
+#frame {
+	
+	border-color: #333333;
+	
+	border-width: 5px;
+	border-style: none;
+	/*-moz-border-radius: 20px;
+	-moz-border-radius: 20px;  
+	-webkit-border-radius: 20px;
+	-webkit-border-radius: 20px;*/
+	background-color: #b1a487;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 0px;
+}
+
+#columnRight {
+	width: 260px;
+	float: right;
+}
+
+#columnMiddle {
+	float: right;
+	width: 510px;
+}
+
+#columnLeft {
+	width: 220px;
+	float: left;
+}
+
+#enclose {
+	width: 730px;
+	float: left;
+}
+
+#footer {
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	padding-left: 16px;
+	padding-right: 16px;
+	clear: both;
+}
+
+#footermain {
+	text-align: center;
+	padding-top: 1em;
+	clear: both;
+	margin-bottom: -6px;
+}
+
+
+
+#footermain p {
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+#header {	
+	background-image: url(../images/2012HC100Header1.jpg);
+	background-repeat:no-repeat;
+	padding-bottom: 470px;
+}
+
+#header h1 {
+    color: white;
+    text-align: center;
+	font-size: 65px;
+	font-family: "Lucida Grande", Helvetica;
+	text-shadow: 2px 2px 5px black;
+	margin-bottom: 1px;
+	filter: Shadow(Color=black, 	
+			Direction=135, 
+			Strength=8);
+}
+
+
+
+#routetable table {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#videocenter {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1 a {
+	color: white;
+	text-decoration: none;
+}
+
+h2 a {
+	color:#80683b;	
+}
+
+h2 a:hover { 
+	font-weight: bold; color: blue; 
+}
+
+h3 {
+	padding-bottom: 1em;
+}
+
+#map {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.centerdiv {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+li {
+	font-size: 0.9em;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: justify;
+	font-family: "Lucida Grande", Helvetica, Verdana, Arial;
+}
+
+p {
+	font-size: 0.9em;
+	margin-bottom: 1em;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: justify;
+	font-family: "Lucida Grande", Helvetica, Verdana, Arial;
+}
+
+span {
+	font-size: 0.9em;
+}
+
+p.footnoteremark {
+	font-size: 0.8em;
+}
+
+p.routenotation {
+	background-color: white;
+	text-decoration: none;
+	color: black;
+	font-size: 0.7em;
+}
+
+p.pheader {
+	font-weight: bolder;
+	margin-bottom: 2px;
+	padding-top: 8px;
+}
+
+p.indexpar {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+p.updatepar {
+	font-size: 0.8em;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+p.centerpar {
+	text-align: center;
+}
+
+li {
+	padding-bottom: 8px;
+}
+
+li.smallfontli {
+	font-size: 0.8em;
+	padding-right: 20px;
+	}
+
+small {
+	font-family: "Lucida Grande", Helvetica;
+}
+
+table tr td {
+	font-size: 0.9em;
+}
+
+table tr td.tablehead {
+	font-weight: bold;
+}
+
+table tr td.tableheadmain {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+#header #tagline {
+	font-weight: bold;
+	text-shadow: 0px 0px white;
+	color: black;
+	text-align: center;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Lucida Grande", Helvetica, Verdana, Arial;
+}
+
+#header #subtagline {
+	font-size: 0.9em;
+}
+
+#footermain #footertag {
+	font-weight: bolder;
+	text-shadow: 1px 1px 1px black;
+	color: #80683b;
+	font-size: 1.4em;
+	text-align: center;
+	padding-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Lucida Blackletter", "Lucida Grande", Helvetica, Verdana, Arial;
+}
+
+#clickmenu {
+	font-size: 90%;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Lucida Grande", Helvetica, Verdana, Arial;
+}
